@@ -1,2 +1,0 @@
-text-indent: -9999px;
-, "Adopt me!"
